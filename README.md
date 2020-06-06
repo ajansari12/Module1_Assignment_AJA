@@ -2,7 +2,7 @@
 
 Module 1 - Assignment: Fintech Case Study - Ali-Jaffer Ansari
 
-# TITLE
+# FINN.AI
 
 ## Overview and Origin
 
